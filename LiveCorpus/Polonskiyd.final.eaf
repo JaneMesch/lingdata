@@ -14907,7 +14907,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2756" ANNOTATION_REF="a1274">
-                <ANNOTATION_VALUE>ADV</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>VERB</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20936,7 +20936,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3961" ANNOTATION_REF="a1178">
-                <ANNOTATION_VALUE>Case=Nom|Gender=Masc|Number|Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21696,7 +21696,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4113" ANNOTATION_REF="a1330">
-                <ANNOTATION_VALUE>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Rcp</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

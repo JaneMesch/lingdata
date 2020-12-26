@@ -1141,7 +1141,7 @@
 1141	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@dc1994m#@dc1994m#502.014#502.318
 1142	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@dc1994m#@dc1994m#502.318#502.622
 1143	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#502.622#502.926
-1144	который	который	DET	_	Case=Nom|Gender=Masc|Number|Plur	_	_	_	words@dc1994m#@dc1994m#502.926#503.23
+1144	который	который	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dc1994m#@dc1994m#502.926#503.23
 1145	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#503.23#503.534
 1146	сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dc1994m#@dc1994m#503.534#503.838
 1147	у	у	ADP	_	_	_	_	_	words@dc1994m#@dc1994m#503.838#504.142
@@ -1237,7 +1237,7 @@
 1237	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#531.198#531.502
 1238	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dc1994m#@dc1994m#531.502#531.806
 1239	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dc1994m#@dc1994m#531.806#532.11
-1240	можно	можно	ADV	_	Degree=Pos	_	_	_	words@dc1994m#@dc1994m#532.11#532.414
+1240	можно	можно	VERB	_	_	_	_	_	words@dc1994m#@dc1994m#532.11#532.414
 1241	не	не	PART	_	_	_	_	_	words@dc1994m#@dc1994m#532.414#532.718
 1242	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@dc1994m#@dc1994m#532.718#533.022
 1243	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#533.022#533.326
@@ -1293,7 +1293,7 @@
 1293	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#564.91#565.155
 1294	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#565.155#565.4
 1295	а	а	INTJ	_	_	_	_	_	words@dc1994m#@dc1994m#573.0#573.118
-1296	общаетесь	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=	Rcp_	_	_	words@dc1994m#@dc1994m#573.118#573.236
+1296	общаетесь	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=	Rcp_	_	_	words@dc1994m#@dc1994m#573.118#573.236
 1297	щас	сейчас	ADV	_	Degree=Pos	_	_	_	words@dc1994m#@dc1994m#573.236#573.354
 1298	?	?	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#573.354#573.472
 1299	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#573.472#573.59

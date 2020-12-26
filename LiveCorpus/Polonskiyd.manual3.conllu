@@ -9,7 +9,7 @@
 9	/	/	PUNCT	_	_	_	_	_	words@dmp1958m#@dmp1958m#248.675#248.931
 10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dmp1958m#@dmp1958m#248.931#249.187
 11	себе	себя	PRON	_	Case=Dat	_	_	_	words@dmp1958m#@dmp1958m#249.187#249.443
-12	сделал	cделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dmp1958m#@dmp1958m#249.443#249.699
+12	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dmp1958m#@dmp1958m#249.443#249.699
 13	вот	вот	INTJ	_	_	_	_	_	words@dmp1958m#@dmp1958m#249.699#249.955
 14	по...	по	X	_	_	_	_	_	words@dmp1958m#@dmp1958m#249.955#250.211
 15	/	/	PUNCT	_	_	_	_	_	words@dmp1958m#@dmp1958m#250.211#250.467
@@ -1101,7 +1101,7 @@
 1101	и	и	CCONJ	_	_	_	_	_	words@dc1994m#@dc1994m#489.854#490.158
 1102	не	не	PART	_	_	_	_	_	words@dc1994m#@dc1994m#490.158#490.462
 1103	выделяешь	выделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dc1994m#@dc1994m#490.462#490.766
-1104	аа	ааa	INTJ	_	_	_	_	_	words@dc1994m#@dc1994m#490.766#491.07
+1104	аа	ааа	INTJ	_	_	_	_	_	words@dc1994m#@dc1994m#490.766#491.07
 1105	/	/	PUNCT	_	_	_	_	_	words@dc1994m#@dc1994m#491.07#491.374
 1106	актера	актер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dc1994m#@dc1994m#491.374#491.678
 1107	который	который	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dc1994m#@dc1994m#491.678#491.982
